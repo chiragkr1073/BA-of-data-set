@@ -1,4 +1,4 @@
-# BA-of-data-set
+# Business Analytics -of-data-set
 
 --Performed Exploratory Data Analysis on super store dataset using Excel
 
